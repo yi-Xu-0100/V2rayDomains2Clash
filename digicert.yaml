@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/digicert
+
+payload:
+  - "+.digicert.com"
+  - "+.digitalcertvalidation.com"
+  - "+.freessl.com"
+  - "+.geotrust.com"
+  - "+.rapidssl.com"
+  - "+.thawte.com"
+  - "+.thawte.de"
+  - "+.thawte.fr"
